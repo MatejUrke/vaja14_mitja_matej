@@ -6,5 +6,7 @@ in ___PA5__ .
 
 e) V področju Connectivity aktivirajte protokol USART2 kot asinhroni. Katera dva pina sta se pobarvala zeleno 
 oz. se aktivirala? ____PA2____ in ____PA3_____. 
+
+
 f) V polju Configuration izbranega serijskega vmesnika pustimo privzeto hitrost (Baud Rate), ki znaša 
 ____115200____Bits/s.
