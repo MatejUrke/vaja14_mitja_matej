@@ -13,8 +13,13 @@ ____115200____Bits/s.
 
 
 
-#SLIKA:
+# SLIKA:
 
 
 ![image](https://user-images.githubusercontent.com/97598727/223357657-a5dd57eb-8476-4fae-bb37-7d895578d8b0.png)
+
+
+
+# Vezje
+
 
