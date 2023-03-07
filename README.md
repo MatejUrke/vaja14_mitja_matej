@@ -10,3 +10,11 @@ oz. se aktivirala? ____PA2____ in ____PA3_____.
 
 f) V polju Configuration izbranega serijskega vmesnika pustimo privzeto hitrost (Baud Rate), ki znaša 
 ____115200____Bits/s.
+
+
+
+#SLIKA:
+
+
+![image](https://user-images.githubusercontent.com/97598727/223357657-a5dd57eb-8476-4fae-bb37-7d895578d8b0.png)
+
