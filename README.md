@@ -22,4 +22,5 @@ ____115200____Bits/s.
 
 
 
-
+# Komentar
+Koda javlja brez napake, vendar LED noče svetiti zeleno.
